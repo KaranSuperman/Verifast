@@ -1,0 +1,3 @@
+openai # Version: 1.76.0
+python-dotenv
+streamlit
